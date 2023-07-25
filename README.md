@@ -9,8 +9,8 @@
 />
 
 **About me**
-- 💼 Embedded Engineer at [Linux](https://blog.csdn.net/qq_39721016?spm=1001.2100.3001.5343)
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- 💼 Embedded Engineer at Linux
+- 📈 I am an electronics enthusiast at [Csdn](https://blog.csdn.net/qq_39721016?spm=1001.2100.3001.5343)
 - ❤️ I like embedded, but I also like to create more electronic designs
 - 💬 Ask me about anything [here](https://github.com/FengQingQi?tab=repositories)
 
