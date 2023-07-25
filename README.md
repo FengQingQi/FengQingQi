@@ -17,7 +17,7 @@
 
 
 <a href="https://github.com/FengQingQi/u-boot-2020.07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FengQingQi&repo=u-boot-2020.07&theme=buefy" />
 </a>
 <a href="https://github.com/FengQingQi/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
