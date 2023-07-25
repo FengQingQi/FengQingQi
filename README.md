@@ -11,7 +11,7 @@
 **About me**
 - 💼 Embedded Engineer at Linux
 - 📈 I am an electronics enthusiast at [Csdn](https://blog.csdn.net/qq_39721016?spm=1001.2100.3001.5343)
-- ❤️ I like embedded, but I also like to create more electronic designs
+- ❤️ I like embedded and creative works
 - 💬 Ask me about anything [here](https://github.com/FengQingQi?tab=repositories)
 
 
