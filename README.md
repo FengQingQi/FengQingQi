@@ -13,3 +13,12 @@
 - ❤️ I like embedded and creative works
 - 💬 Ask me about anything [here](https://github.com/FengQingQi?tab=repositories)
 
+#### Top Repositories
+
+
+<a href="https://github.com/FengQingQi/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/FengQingQi/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
