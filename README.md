@@ -3,7 +3,7 @@
 <br />
 
 <img 
-  align="align" 
+  align="right" 
   style="synthwave:none;" 
   src="https://github-readme-stats.vercel.app/api?username=FengQingQi&show_icons=true&icon_color=EF8539&text_color=E5289E&bg_color=31353A&hide_title=true" 
 />
