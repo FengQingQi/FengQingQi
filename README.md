@@ -18,7 +18,7 @@
 
 
 <a href="https://github.com/FengQingQi/u-boot-2018.01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FengQingQi&repo=u-boot-2018.01&theme=buefy&show_icons=true&icon_color=EF8539&text_color=E5289E&bg_color=495358&hide_title=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FengQingQi&repo=u-boot-2018.01&theme=buefy&show_icons=true&icon_color=FF0080&text_color=E5289E&bg_color=495358&hide_title=true" />
 </a>
 <a href="https://github.com/FengQingQi/u-boot-2020.07">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FengQingQi&repo=u-boot-2020.07&theme=buefy" />
