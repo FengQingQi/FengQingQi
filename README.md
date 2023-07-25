@@ -12,7 +12,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
-- 💬 Ask me about anything [here]([https://github.com/FengQingQi/FengQingQi/issues](https://github.com/FengQingQi?tab=repositories))
+- 💬 Ask me about anything [here](https://github.com/FengQingQi?tab=repositories)
 
 <img 
   align="left" 
