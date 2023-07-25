@@ -1,4 +1,4 @@
-<p align="center"><a href="https://FengQingQi.github.io"><img width="80%" alt="Hello, I'm FengQingQi. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/FengQingQi/FengQingQi/tree/main"><img width="80%" alt="Hello, I'm FengQingQi. I do open source!" src="./img/FengQingQi.png" /></a></p>
 
 <br />
 
