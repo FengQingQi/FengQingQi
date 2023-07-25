@@ -6,11 +6,11 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Embedded Engineer at [Linux](https://blog.csdn.net/qq_39721016?spm=1001.2100.3001.5343)
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I like embedded, but I also like to create more electronic designs
 
 - 💬 Ask me about anything [here](https://github.com/FengQingQi?tab=repositories)
 
