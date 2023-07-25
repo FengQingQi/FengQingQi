@@ -5,7 +5,7 @@
 <img 
   align="right" 
   style="synthwave:none;" 
-  src="https://github-readme-stats.vercel.app/api?username=FengQingQi&show_icons=true&icon_color=EF8539&text_color=E5289E&bg_color=433358&hide_title=true" 
+  src="https://github-readme-stats.vercel.app/api?username=FengQingQi&show_icons=true&icon_color=EF8539&text_color=E5289E&bg_color=31353A&hide_title=true" 
 />
 **About me**
 - 💼 Embedded Engineer at Linux
