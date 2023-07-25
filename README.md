@@ -2,7 +2,11 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+<img 
+  align="right" 
+  style="synthwave:none;" 
+  src="https://github-readme-stats.vercel.app/api?username=FengQingQi&show_icons=true&icon_color=EF8539&text_color=E5289E&bg_color=433358&hide_title=true" 
+/>
 
 **About me**
 
@@ -14,8 +18,4 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 - 💬 Ask me about anything [here](https://github.com/FengQingQi?tab=repositories)
 
-<img 
-  align="left" 
-  style="synthwave:none;" 
-  src="https://github-readme-stats.vercel.app/api?username=FengQingQi&show_icons=true&icon_color=EF8539&text_color=E5289E&bg_color=433358&hide_title=true" 
-/>
+
