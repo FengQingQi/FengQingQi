@@ -22,9 +22,10 @@
 <a href="https://github.com/FengQingQi/u-boot-2020.07">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FengQingQi&repo=u-boot-2020.07&theme=buefy" />
 </a>
-<a href="https://github.com/FengQingQi/buildroot-2021.02.6">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FengQingQi&repo=buildroot-2021.02.6&theme=buefy" />
-</a>
 <a href="https://github.com/FengQingQi/linux-4.15">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FengQingQi&repo=linux-4.15&theme=buefy" />
 </a>
+<a href="https://github.com/FengQingQi/buildroot-2021.02.6">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FengQingQi&repo=buildroot-2021.02.6&theme=buefy" />
+</a>
+
