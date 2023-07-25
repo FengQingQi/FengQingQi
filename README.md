@@ -14,4 +14,8 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=FengQingQi&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img 
+  align="left" 
+  style="synthwave:none;" 
+  src="https://github-readme-stats.vercel.app/api?username=FengQingQi&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" 
+/>
